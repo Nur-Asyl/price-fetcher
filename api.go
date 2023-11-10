@@ -5,7 +5,8 @@ import (
 	"encoding/json"
 	"math/rand"
 	"net/http"
-	"price-fetcher/types"
+
+	"github.com/Nur-Asyl/pricefetcher/types"
 )
 
 type APIFunc func(context.Context, http.ResponseWriter, *http.Request) error

@@ -1,4 +1,4 @@
-module price-fetcher
+module pricefetcher
 
 go 1.19
 

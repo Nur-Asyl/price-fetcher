@@ -5,7 +5,8 @@ import (
 	"flag"
 	"fmt"
 	"log"
-	"price-fetcher/client"
+
+	"github.com/Nur-Asyl/pricefetcher/client"
 )
 
 func main() {
