@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Nur-Asyl/pricefetcher/client"
+	"github.com/Nur-Asyl/price-fetcher/client"
 )
 
 func main() {

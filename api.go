@@ -6,7 +6,7 @@ import (
 	"math/rand"
 	"net/http"
 
-	"github.com/Nur-Asyl/pricefetcher/types"
+	"github.com/Nur-Asyl/price-fetcher/types"
 )
 
 type APIFunc func(context.Context, http.ResponseWriter, *http.Request) error
